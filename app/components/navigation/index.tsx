@@ -17,13 +17,13 @@ export default function HomeNavigation() {
                             <a href="/home">Features</a>
                         </li>
                         <li className="font-heading mr-9 text-white hover:text-gray-200 text-lg">
-                            <a href="#">Solutions</a>
+                            <a href="/">Solutions</a>
                         </li>
                         <li className="font-heading mr-9 text-white hover:text-gray-200 text-lg">
-                            <a href="#">Resources</a>
+                            <a href="/">Resources</a>
                         </li>
                         <li className="font-heading text-white hover:text-gray-200 text-lg">
-                            <a href="#">Pricing</a>
+                            <a href="/">Pricing</a>
                         </li>
                     </ul>
                 </div>
@@ -35,7 +35,7 @@ export default function HomeNavigation() {
                             </button>
                         </div>
                         <div className="w-auto lg:hidden">
-                            <a href="#">
+                            <a href="/">
                                 <svg
                                     className="navbar-burger text-gray-800"
                                     width={51}
@@ -65,7 +65,7 @@ export default function HomeNavigation() {
                         <div className="w-full">
                             <div className="flex items-center justify-between -m-2">
                                 <div className="w-auto p-2">
-                                    <a className="inline-block" href="#">
+                                    <a className="inline-block" href="/">
                                         <img
                                             src="gradia-assets/logos/gradia-name-black.svg"
                                             alt=""
@@ -73,7 +73,7 @@ export default function HomeNavigation() {
                                     </a>
                                 </div>
                                 <div className="w-auto p-2">
-                                    <a className="navbar-burger" href="#">
+                                    <a className="navbar-burger" href="/">
                                         <svg
                                             width={24}
                                             height={24}
@@ -98,7 +98,7 @@ export default function HomeNavigation() {
                                 <li className="mb-12">
                                     <a
                                         className="font-heading font-medium text-lg text-gray-900 hover:text-gray-700"
-                                        href="#"
+                                        href="/"
                                     >
                                         Features
                                     </a>
@@ -106,7 +106,7 @@ export default function HomeNavigation() {
                                 <li className="mb-12">
                                     <a
                                         className="font-heading font-medium text-lg text-gray-900 hover:text-gray-700"
-                                        href="#"
+                                        href="/"
                                     >
                                         Solutions
                                     </a>
@@ -114,7 +114,7 @@ export default function HomeNavigation() {
                                 <li className="mb-12">
                                     <a
                                         className="font-heading font-medium text-lg text-gray-900 hover:text-gray-700"
-                                        href="#"
+                                        href="/"
                                     >
                                         Resources
                                     </a>
@@ -122,7 +122,7 @@ export default function HomeNavigation() {
                                 <li>
                                     <a
                                         className="font-heading font-medium text-lg text-gray-900 hover:text-gray-700"
-                                        href="#"
+                                        href="/"
                                     >
                                         Pricing
                                     </a>
